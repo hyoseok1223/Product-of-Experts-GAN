@@ -7,6 +7,7 @@ This Repository is unoffical implementation of [PoE-GAN : Multimodal Conditional
 
 
 ## Notice
+**!! Now really unstable and I will reproduce and improve continuously please wait !!**\
 I have tried to follow offical paper experiment settings, but some parts are not perfectyl implemented. ( TBD! )
 - It works when enough batch size
 - Train only non-saturating gan loss first, and from intermediate steps using modality loss ( contrastive loss and KL loss )
